@@ -1,3 +1,12 @@
+gooroom-info (1.3.0+grm1u1) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [384f129e] Released Gooroom Platform 1.3
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 29 Mar 2019 09:18:15 +0900
+
 gooroom-info (1.2.0+grm1u1) gooroom-1.0; urgency=medium
 
   [ jongkyung.woo ]
