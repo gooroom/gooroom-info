@@ -1,0 +1,4 @@
+RELEASE=2.0
+CODENAME=gooroom-2.0-unstable
+DESCRIPTION="Gooroom OS 2.0"
+GRUB_TITLE=Gooroom OS 2.0
