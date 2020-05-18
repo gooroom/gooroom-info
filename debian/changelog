@@ -1,3 +1,12 @@
+gooroom-info (2.0.0+grm2u3) gooroom-1.0; urgency=medium
+
+  [ jongkyung.woo ]
+  * [ee6dd24d] Modified CODENAME to gooroom-2.0
+
+  [ Gooroom Autobuilder ]
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Mon, 18 May 2020 18:55:19 +0900
+
 gooroom-info (2.0.0+grm2u2) gooroom-1.0; urgency=medium
 
   [ jongkyung.woo ]
