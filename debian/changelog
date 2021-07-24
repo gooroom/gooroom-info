@@ -1,3 +1,10 @@
+gooroom-info (2.3.0+grm2u2) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [862e4998] Add arm64 archtecure
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Sat, 24 Jul 2021 15:20:13 +0900
+
 gooroom-info (2.3.0+grm2u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
