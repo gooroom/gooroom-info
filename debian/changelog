@@ -1,3 +1,10 @@
+gooroom-info (2.9.0+grm2u1) unstable; urgency=medium
+
+  [ jongkyung.woo ]
+  * [c826554b] Released Version Gooroom 2.9
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Tue, 30 Apr 2024 16:15:58 +0900
+
 gooroom-info (2.8.0+grm2u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
