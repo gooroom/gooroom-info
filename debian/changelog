@@ -1,3 +1,10 @@
+gooroom-info (4.5.0+grm4u1) unstable; urgency=medium
+
+  [ mings ]
+  * [309a01c8] Released gooroom 4.5
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Thu, 28 May 2026 14:31:17 +0900
+
 gooroom-info (4.4.0+grm4u1) unstable; urgency=medium
 
   [ jongkyung.woo ]
